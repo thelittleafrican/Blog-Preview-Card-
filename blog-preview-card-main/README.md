@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/thelittleafrican/Blog-Preview-Card-/tree/main/blog-preview-card-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://65a0e586bec86d9022b524a0--verdant-biscuit-6b4257.netlify.app/]
 
 ## My process
 
